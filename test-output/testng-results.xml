@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-06T02:02:49 EET" name="Default suite" finished-at="2024-03-06T02:03:14 EET" duration-ms="25179">
+    <groups>
+    </groups>
+    <test started-at="2024-03-06T02:02:49 EET" name="Default test" finished-at="2024-03-06T02:03:14 EET" duration-ms="25179">
+      <class name="swaglabs.lastTest_swag">
+        <test-method is-config="true" signature="preTest()[pri:0, instance:swaglabs.lastTest_swag@2c7b5824]" started-at="2024-03-06T02:02:49 EET" name="preTest" finished-at="2024-03-06T02:02:51 EET" duration-ms="1868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method signature="addTwoTest()[pri:1, instance:swaglabs.lastTest_swag@2c7b5824]" started-at="2024-03-06T02:02:51 EET" name="addTwoTest" finished-at="2024-03-06T02:02:59 EET" duration-ms="7701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTwoTest -->
+        <test-method signature="addThreeTest()[pri:2, instance:swaglabs.lastTest_swag@2c7b5824]" started-at="2024-03-06T02:02:59 EET" name="addThreeTest" finished-at="2024-03-06T02:03:06 EET" duration-ms="7873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addThreeTest -->
+        <test-method signature="addrandomItem()[pri:3, instance:swaglabs.lastTest_swag@2c7b5824]" started-at="2024-03-06T02:03:06 EET" name="addrandomItem" finished-at="2024-03-06T02:03:14 EET" duration-ms="7660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addrandomItem -->
+      </class> <!-- swaglabs.lastTest_swag -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
